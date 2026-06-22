@@ -2,7 +2,7 @@
 
 # 📚 مراجعات Letterboxd العربية
 
-![Stars](https://img.shields.io/github/stars/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![License](https://img.shields.io/github/license/roko-tech/letterboxd-arabic-reviews?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/roko-tech/letterboxd-reviews-by-language?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/roko-tech/letterboxd-reviews-by-language?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/roko-tech/letterboxd-reviews-by-language?style=for-the-badge) ![License](https://img.shields.io/github/license/roko-tech/letterboxd-reviews-by-language?style=for-the-badge)
 
 [English](README.md) | **العربية**
 
@@ -18,7 +18,7 @@
 
 ## ⬇️ التثبيت
 
-ثبّت [Violentmonkey](https://violentmonkey.github.io/) (أو [Tampermonkey](https://www.tampermonkey.net/))، ثم **[اضغط هنا للتثبيت](https://github.com/roko-tech/letterboxd-arabic-reviews/raw/main/letterboxd-arabic-reviews.user.js)**.
+ثبّت [Violentmonkey](https://violentmonkey.github.io/) (أو [Tampermonkey](https://www.tampermonkey.net/))، ثم **[اضغط هنا للتثبيت](https://github.com/roko-tech/letterboxd-reviews-by-language/raw/main/letterboxd-arabic-reviews.user.js)**.
 
 ## ▶️ الاستخدام
 

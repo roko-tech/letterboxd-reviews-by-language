@@ -2,7 +2,7 @@
 
 # 📚 Letterboxd Review Collector
 
-![Stars](https://img.shields.io/github/stars/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![License](https://img.shields.io/github/license/roko-tech/letterboxd-arabic-reviews?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/roko-tech/letterboxd-reviews-by-language?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/roko-tech/letterboxd-reviews-by-language?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/roko-tech/letterboxd-reviews-by-language?style=for-the-badge) ![License](https://img.shields.io/github/license/roko-tech/letterboxd-reviews-by-language?style=for-the-badge)
 
 **English** | [العربية](README.ar.md)
 
@@ -18,7 +18,7 @@ Collects every review of a film written in the language you choose into one pane
 
 ## ⬇️ Install
 
-Install [Violentmonkey](https://violentmonkey.github.io/) (or [Tampermonkey](https://www.tampermonkey.net/)), then **[click here to install](https://github.com/roko-tech/letterboxd-arabic-reviews/raw/main/letterboxd-reviews.user.js)**.
+Install [Violentmonkey](https://violentmonkey.github.io/) (or [Tampermonkey](https://www.tampermonkey.net/)), then **[click here to install](https://github.com/roko-tech/letterboxd-reviews-by-language/raw/main/letterboxd-reviews.user.js)**.
 
 ## ▶️ Usage
 

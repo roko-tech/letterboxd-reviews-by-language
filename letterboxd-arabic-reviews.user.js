@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Letterboxd Arabic Reviews
-// @namespace    https://github.com/roko-tech/letterboxd-arabic-reviews
+// @namespace    https://github.com/roko-tech/letterboxd-reviews-by-language
 // @version      2.8.3
 // @description  Adds a button to a film's page that collects every Arabic review across all pages into one panel — with RTL layout and sorting. Uses Chrome's on-device Language Detector API with a script/stopword fallback.
 // @author       roko-tech
-// @homepageURL  https://github.com/roko-tech/letterboxd-arabic-reviews
-// @supportURL   https://github.com/roko-tech/letterboxd-arabic-reviews/issues
-// @downloadURL  https://raw.githubusercontent.com/roko-tech/letterboxd-arabic-reviews/main/letterboxd-arabic-reviews.user.js
-// @updateURL    https://raw.githubusercontent.com/roko-tech/letterboxd-arabic-reviews/main/letterboxd-arabic-reviews.user.js
+// @homepageURL  https://github.com/roko-tech/letterboxd-reviews-by-language
+// @supportURL   https://github.com/roko-tech/letterboxd-reviews-by-language/issues
+// @downloadURL  https://raw.githubusercontent.com/roko-tech/letterboxd-reviews-by-language/main/letterboxd-arabic-reviews.user.js
+// @updateURL    https://raw.githubusercontent.com/roko-tech/letterboxd-reviews-by-language/main/letterboxd-arabic-reviews.user.js
 // @match        https://letterboxd.com/*
 // @run-at       document-idle
 // @grant        GM_registerMenuCommand
