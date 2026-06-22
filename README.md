@@ -1,22 +1,24 @@
-# 📚 مراجعات Letterboxd العربية
+**English** · [العربية](README.ar.md)
 
-يجمع كل المراجعات العربية لأي فيلم على [Letterboxd](https://letterboxd.com) في لوحة واحدة، بدل البحث عنها صفحةً صفحة.
+# 📚 Letterboxd Review Collector
 
-## ✨ الميزات
+Collects every review of a film written in the language you choose into one panel, instead of scrolling page after page to find them.
 
-- جمع المراجعات العربية من كل الصفحات في مكان واحد.
-- ترتيبها حسب الأحدث أو التقييم.
-- عرض من اليمين إلى اليسار.
+## ✨ Features
 
-## ⬇️ التثبيت
+- Collects matching reviews from every page in one place.
+- Sort by most recent or rating.
+- Right-to-left display for RTL languages.
 
-ثبّت [Violentmonkey](https://violentmonkey.github.io/) (أو [Tampermonkey](https://www.tampermonkey.net/))، ثم **[اضغط هنا للتثبيت](https://github.com/roko-tech/letterboxd-arabic-reviews/raw/main/letterboxd-arabic-reviews.user.js)**.
+## ⬇️ Install
 
-## ▶️ الاستخدام
+Install [Violentmonkey](https://violentmonkey.github.io/) (or [Tampermonkey](https://www.tampermonkey.net/)), then **[click here to install](https://github.com/roko-tech/letterboxd-arabic-reviews/raw/main/letterboxd-reviews.user.js)**.
 
-افتح صفحة فيلم، واضغط زر **«اجمع المراجعات العربية»** أسفل يمين الصفحة.
-لتغيير اللغة، استخدم **«تحديد اللغات»** من قائمة الإضافة.
+## ▶️ Usage
+
+Open a film page and click the green **“📚 Collect reviews”** button at the bottom-right.
+Choose which language to collect via **“Set languages”** in the extension’s menu (e.g. `ar`, `ja`).
 
 ---
 
-رخصة [MIT](LICENSE) · [roko-tech](https://github.com/roko-tech)
+[MIT](LICENSE) · [roko-tech](https://github.com/roko-tech)
